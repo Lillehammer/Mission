@@ -1,0 +1,38 @@
+
+class Intro
+{
+	addOns[]=
+	{
+		"a3_map_stratis",
+		"a3_map_altis"
+	};
+
+	addOnsAuto[]=
+	{
+		"a3_map_altis"
+	};
+
+	randomSeed=13763187;
+
+	class Intel
+	{
+		timeOfChanges=0;
+		
+		startWeather=0;
+		startWind=0;
+		startWaves=0;
+
+		forecastWeather=0;
+		forecastWind=0;
+		forecastWaves=0;
+		forecastLightnings=0;
+		
+		year=2035;
+		day=1;
+		hour=12;
+		minute=0;
+
+		startFogDecay=0;
+		forecastFogDecay=0;
+	};
+};

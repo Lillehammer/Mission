@@ -1,0 +1,41 @@
+
+	class Intel
+	{
+
+		briefingName="altis.xoreaxeax.de";
+		overviewText="powered by an RPG game mode developed by Tonic";
+
+		timeOfChanges=0;
+
+		startFogBase=100;
+		forecastFogBase=0;
+		startFogDecay=0;
+		forecastFogDecay=0;		
+		
+		startWeather=0;
+		startWind=0;
+		startWindDir=0;
+		startWaves=0;
+		startGust=0;
+
+		forecastWeather=0;
+		forecastWind=0;
+		forecastWaves=0;
+		forecastGust=0;
+		forecastWindDir=0;
+		forecastOvercast = 0;
+		forecastHumidity = 0;
+		forecastFog = 0;
+		
+		wavesForced=0;
+		windForced=0;
+		
+		forecastLightnings=0;
+		
+		year=2016;
+		month=5;
+		day=1;
+		hour=3;
+		minute=42;
+
+	};
