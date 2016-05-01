@@ -7,7 +7,9 @@ CLASSVEHICLE_SCRIPT = bin/injector.sh Vehicles $(@)
 
 CLASSGROUP_SCRIPT = bin/injector.sh Groups $(@)
 
-TARGETS = clean tmp AUTOGEN vanilla mapping classVehiclesMapping idpatcher vanilla_mission mapping_mission
+ITEM_MODS = idpatcher lamps shops billboards ammocrates
+
+TARGETS = clean tmp AUTOGEN vanilla mapping classVehiclesMapping $(ITEM_MODS) vanilla_mission mapping_mission
 
 VANILLA_TMP = AUTOGEN/vanilla
 MAPPING_TMP = AUTOGEN/mapping
@@ -37,6 +39,33 @@ classVehiclesMapping:
 		xargs -n1 --no-run-if-empty $(SLICE) | \
 			tee -a AUTOGEN/mapping/classMission/classVehicles.sqm
 
+#
+# Laptop_Device
+#
+shops:
+	$(CLASSVEHICLE_SCRIPT)
+
+#
+# switches on enableSimulation for lamps in the mission.sqm
+#
+lamps:
+	$(CLASSVEHICLE_SCRIPT)
+
+#
+# adds the armalife logo to all billboards on the map
+#
+billboards:
+	$(CLASSVEHICLE_SCRIPT)
+
+#
+# removes everything from any ammo crate placed with xcam
+#
+ammocrates:
+	$(CLASSVEHICLE_SCRIPT)
+
+#
+# patches class ItemXXX and id=YYY values in the mission.sqm
+#
 idpatcher:
 	$(CLASSVEHICLE_SCRIPT)
 
@@ -45,7 +74,7 @@ vanilla_mission:
 
 mapping_mission:
 	$(MISSIONBUILDER) AUTOGEN/mapping $(MAPPING_MISSION)
-			
+
 clean:
 	rm -rfv AUTOGEN
 	rm -rfv tmp

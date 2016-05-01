@@ -22,12 +22,12 @@
 					offsetY=2;
 					id=0;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_1";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Public Slot - Cop 1";
+					description="WhiteListed - Cop 1";
 				};
 				class Item1
 				{
@@ -35,12 +35,12 @@
 					azimut=-794.64697;
 					id=1;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_2";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Public Slot - Cop 2";
+					description="WhiteListed - Cop 2";
 				};
 				class Item2
 				{
@@ -48,12 +48,12 @@
 					azimut=-441.37399;
 					id=2;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_3";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Public Slot - Cop 3";
+					description="WhiteListed - Cop 3";
 				};
 				class Item3
 				{
@@ -61,12 +61,12 @@
 					azimut=-794.64697;
 					id=3;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_4";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Public Slot - Cop 4";
+					description="WhiteListed - Cop 4";
 				};
 				class Item4
 				{
@@ -74,7 +74,7 @@
 					azimut=-794.64697;
 					id=4;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -88,7 +88,7 @@
 					azimut=-794.64697;
 					id=5;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_6";
@@ -101,7 +101,7 @@
 					azimut=-794.64697;
 					id=6;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_7";
@@ -114,7 +114,7 @@
 					azimut=-794.64697;
 					id=7;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_8";
@@ -127,7 +127,7 @@
 					azimut=-794.64697;
 					id=8;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_9";
@@ -140,7 +140,7 @@
 					azimut=-794.64697;
 					id=9;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_10";
@@ -153,7 +153,7 @@
 					azimut=-794.64697;
 					id=10;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_11";
@@ -166,7 +166,7 @@
 					azimut=-794.64697;
 					id=11;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_12";
@@ -179,7 +179,7 @@
 					azimut=-794.64697;
 					id=12;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_13";
@@ -193,7 +193,7 @@
 					offsetY=3;
 					id=13;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_14";
@@ -206,7 +206,7 @@
 					azimut=-794.64697;
 					id=14;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_15";
@@ -219,7 +219,7 @@
 					azimut=-794.64697;
 					id=15;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_16";
@@ -232,7 +232,7 @@
 					azimut=-794.64697;
 					id=16;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_17";
@@ -245,7 +245,7 @@
 					azimut=-794.64697;
 					id=17;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_18";
@@ -258,7 +258,7 @@
 					azimut=-794.64697;
 					id=18;
 					side="WEST";
-					vehicle="B_medic_F";
+					vehicle="b_soldier_unarmed_f";
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="cop_19";
@@ -3294,34 +3294,13 @@
 			side="GUER";
 			class Vehicles
 			{
-				items=1;
-				class Item0
-				{
-					position[]={8437.2002,105.64852,25149.426};
-					azimut=182.302;
-					id=208;
-					side="GUER";
-					vehicle="I_Story_Colonel_F";
-					player="PLAY CDG";
-					leader=1;
-					skill=0.60000002;
-					text="hc_1";
-					description="Headless Client";
-				};
-			};
-		};
-		class Item82
-		{
-			side="GUER";
-			class Vehicles
-			{
 				items=4;
 				class Item0
 				{
 					position[]={8424.9258,99.930687,25177.225};
 					azimut=185.11099;
 					special="NONE";
-					id=209;
+					id=208;
 					side="GUER";
 					vehicle="B_medic_F";
 					player="PLAY CDG";
@@ -3335,6 +3314,19 @@
 					position[]={8425.2324,99.418427,25179.02};
 					azimut=185.11099;
 					special="NONE";
+					id=209;
+					side="GUER";
+					vehicle="B_medic_F";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="medic_2";
+					description="EMS Medic";
+				};
+				class Item2
+				{
+					position[]={8427.6777,99.306786,25178.748};
+					azimut=185.11099;
+					special="NONE";
 					id=210;
 					side="GUER";
 					vehicle="B_medic_F";
@@ -3343,9 +3335,9 @@
 					text="medic_3";
 					description="EMS Medic";
 				};
-				class Item2
+				class Item3
 				{
-					position[]={8427.6777,99.306786,25178.748};
+					position[]={8428.2236,99.711594,25177.109};
 					azimut=185.11099;
 					special="NONE";
 					id=211;
@@ -3356,18 +3348,26 @@
 					text="medic_4";
 					description="EMS Medic";
 				};
-				class Item3
+			};
+		};
+		class Item82
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
 				{
-					position[]={8428.2236,99.711594,25177.109};
-					azimut=185.11099;
-					special="NONE";
+					position[]={8437.2002,105.64852,25149.426};
+					azimut=182.302;
 					id=212;
 					side="GUER";
-					vehicle="B_medic_F";
+					vehicle="I_Story_Colonel_F";
 					player="PLAY CDG";
+					leader=1;
 					skill=0.60000002;
-					text="medic_2";
-					description="EMS Medic";
+					text="hc_1";
+					description="Headless Client";
 				};
 			};
 		};
@@ -4120,8 +4120,88 @@
 				};
 			};
 		};
+		class Item121
+		{
+			side="LOGIC";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={3637.0813,10.139458,13099.581};
+					id=251;
+					side="LOGIC";
+					vehicle="Logic";
+					leader=1;
+					skill=0.60000002;
+					text="objektvernichter_kavala_market_kiosk";
+					init="{ _x hideObjectGlobal true } foreach (nearestTerrainObjects [this,[],5]);";
+				};
+			};
+		};
+		class Item122
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=4;
+				class Item0
+				{
+					position[]={8429.9258,99.930687,25177.225};
+					azimut=185.11099;
+					special="NONE";
+					id=252;
+					side="GUER";
+					vehicle="B_medic_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="medic_5";
+					description="EMS Medic";
+				};
+				class Item1
+				{
+					position[]={8430.2324,99.418427,25179.02};
+					azimut=185.11099;
+					special="NONE";
+					id=253;
+					side="GUER";
+					vehicle="B_medic_F";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="medic_6";
+					description="EMS Medic";
+				};
+				class Item2
+				{
+					position[]={8431.6777,99.306786,25178.748};
+					azimut=185.11099;
+					special="NONE";
+					id=254;
+					side="GUER";
+					vehicle="B_medic_F";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="medic_7";
+					description="EMS Medic";
+				};
+				class Item3
+				{
+					position[]={8432.2236,99.711594,25177.109};
+					azimut=185.11099;
+					special="NONE";
+					id=255;
+					side="GUER";
+					vehicle="B_medic_F";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="medic_8";
+					description="EMS Medic";
+				};
+			};
+		};
 
 	////
 	//// you have to modify this counter manually if you add things above
 	////
-	items=121;
+	items=123;
