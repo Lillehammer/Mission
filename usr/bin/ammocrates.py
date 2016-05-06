@@ -4,6 +4,10 @@ import sys
 import os
 
 boxes = [
+"I_CargoNet_01_ammo_F",
+"CargoNet_01_barrels_F",
+"Land_cargo_addon01_V1_F",
+"O_CargoNet_01_ammo_F",
 "Box_East_Grenades_F",
 "Box_East_Wps_F",
 "Box_East_WpsLaunch_F",
