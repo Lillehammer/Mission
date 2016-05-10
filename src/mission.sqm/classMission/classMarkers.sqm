@@ -1727,6 +1727,29 @@
 			b=30;
 		};
 
-		items=218;
+		class Item218
+		{
+			position[]={5406.7324,34.227005,15057.473};
+			name="stadion_spawn_1";
+			type="Empty";
+			angle=150;
+		};
 
+		class Item219
+		{
+			position[]={5468.5645,27.299999,14987.64};
+			name="stadion_heli_spawn_1";
+			type="Empty";
+			angle=150;
+		};
+
+		class Item220
+		{
+			position[]={5486.2417,27.299999,15010.079};
+			name="stadion_heli_spawn_2";
+			type="Empty";
+			angle=150;
+		};
+
+		items=221;
 	};

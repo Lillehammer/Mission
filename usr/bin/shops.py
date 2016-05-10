@@ -59,6 +59,8 @@ this addAction[
 	life_fnc_buyLicense,"home",0,false,false,"",' !license_civ_home && playerSide == civilian '
 ];
 
+this addAction[localize"STR_MAR_Store_vehicle_in_Garage",life_fnc_storeVehicle,"",0,false,false,"",'!life_garage_store'];
+
 this setObjectTextureGlobal[0, "textures\\armalife.jpg"]
 
 """.replace('"', '""').replace("\r", " ").replace("\n", " ").replace("\t", " ")
