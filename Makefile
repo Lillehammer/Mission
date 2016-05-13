@@ -7,7 +7,7 @@ CLASSVEHICLE_SCRIPT = bin/injector.sh Vehicles $(@)
 
 CLASSGROUP_SCRIPT = bin/injector.sh Groups $(@)
 
-ITEM_MODS = idpatcher lamps shops billboards ammocrates dvg
+ITEM_MODS = idpatcher lamps shops billboards ammocrates dvg robberies
 
 TARGETS = clean tmp AUTOGEN vanilla mapping classVehiclesMapping $(ITEM_MODS) vanilla_mission mapping_mission
 
@@ -68,6 +68,14 @@ ammocrates:
 #
 dvg:
 	$(CLASSVEHICLE_SCRIPT)
+
+#
+# adds action handlers for robbing ATMs and Gas Stations
+#
+robberies:
+	$(CLASSVEHICLE_SCRIPT)
+	$(CLASSGROUP_SCRIPT)
+
 #
 # patches class ItemXXX and id=YYY values in the mission.sqm
 #

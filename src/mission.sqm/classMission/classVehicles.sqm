@@ -3286,7 +3286,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Polizei Kavala";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item326
 		{
@@ -3297,7 +3297,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Kavala Markt";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item327
 		{
@@ -3308,7 +3308,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Kavala Innenstadt";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item328
 		{
@@ -3319,7 +3319,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Zaros";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item329
 		{
@@ -3330,7 +3330,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Athira Autohaus";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item330
 		{
@@ -3341,7 +3341,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Flughafen";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item331
 		{
@@ -3352,7 +3352,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Pyrgos";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item332
 		{
@@ -3364,7 +3364,7 @@
 			vehicle="Land_Atm_01_F";
 			skill=0.60000002;
 			text="ATM Sofia";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item333
 		{
@@ -3375,7 +3375,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Molos";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item334
 		{
@@ -3386,7 +3386,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Panagia";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item335
 		{
@@ -3397,7 +3397,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Panochori";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item336
 		{
@@ -3408,7 +3408,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Agios Dionysios";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item337
 		{
@@ -3419,7 +3419,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Syrta";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item338
 		{
@@ -3430,7 +3430,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Tankstelle Paros";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item339
 		{
@@ -3441,7 +3441,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Neochori";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item340
 		{
@@ -3452,7 +3452,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Telos";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item341
 		{
@@ -3463,7 +3463,7 @@
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
 			text="ATM Tankstelle Stadion Nord";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 		class Item342
 		{
@@ -5673,6 +5673,6 @@
 			vehicle="Land_Atm_01_F";
 			skill=0.40000001;
 			text="ATM Kavala LKW Haendler";
-			init="this enableSimulation false; this allowDamage true; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage true; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; @@@CLASSVEHICLES_ROB_ATM@@@;";
 		};
 
